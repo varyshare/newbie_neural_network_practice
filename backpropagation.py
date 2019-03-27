@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 """
 @author 知乎：@Ai酱
+教程地址URL： https://zhuanlan.zhihu.com/p/60539567
 """
 class NeuralNetwork:
     
