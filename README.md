@@ -4,7 +4,7 @@
 
 作者：知乎[@Ai酱](https://www.zhihu.com/people/yuanmuou/activities)
 
-# [零基础神经网络实战(1)：单个神经元+随机梯度下降学习逻辑与规则](https://zhuanlan.zhihu.com/p/59678480)
+# 零基础神经网络实战(1)：单个神经元+随机梯度下降学习逻辑与规则
 
 中文教程：[零基础神经网络实战(1)：单个神经元+随机梯度下降学习逻辑与规则](https://zhuanlan.zhihu.com/p/59678480)
 
