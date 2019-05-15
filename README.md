@@ -23,3 +23,6 @@
 
 代码： [backpropagation.py](https://github.com/varyshare/newbie_neural_network_practice/blob/master/backpropagation.py)
 
+# 手写Numpy矩阵库，不做萌新调包虾
+
+代码： [MyMattrix.py](MyMattrix.py) 
