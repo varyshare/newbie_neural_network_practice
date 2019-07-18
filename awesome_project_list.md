@@ -1,0 +1,33 @@
+# 一些有用的机器学习/深度学习/面试问题项目列表 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/varyshare)
+
+（awesome-*的清单列表）
+
+> GitHub很多惊艳的项目都是用awsome来命名，为了方便大家查看我将他们整理在了一起制作成了一个列表（排名是随机的，不分先后）。
+如果对你有帮助欢迎star支持这个项目。也欢迎大家fork这个项目，一起创建一个适合新手的有理论有代码的教程开源项目。
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Deep Learning学习路径Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+- [强化学习awesome-rl](https://github.com/aikorea/awesome-rl)
+- [计算机视觉awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [计算机各个方向面试问题awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/varyshare/hands-on-ml-zh)
+- [三维重建awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list)
+- [深度学习之视觉awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
+- [不用框架最原始的方式实现神经网络实践](https://github.com/mattm/simple-neural-network)
+- [手写神经网络mnist分类](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
+- [ApachCN的中文机器学习实战教程+代码](https://github.com/apachecn/AiLearning)
+- [Python实现计算机界常用算法：传统算法+机器学习算法+各种数学的Python实现](https://github.com/TheAlgorithms/Python)
+- [LeetCode算法可视化展示算法原理(笔试面试必备)](https://github.com/azl397985856/leetcode)
+- [动画显示LeetCode算法计算过程](https://github.com/MisterBooo/LeetCodeAnimation)
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+- [数据科学学习路径教程](https://github.com/virgili0/Virgilio)
+- [计算机各种技术大杂烩awesome](https://github.com/sindresorhus/awesome)
+- [100天机器学习](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)
+- [语义分割awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+- [算法基础](https://github.com/liuxinyu95/AlgoXY)
+- [matlab实现各种空间几何变换](https://github.com/petercorke/spatial-math)
+- [github新手深度学习/机器学习实践教程](https://github.com/varyshare/newbie_neural_network_practice)
+- [编程书籍free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [aibooks](https://github.com/aibooks/aibooks.github.io)
+- [Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university)
+- [对花书各章节进行总结](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries)
