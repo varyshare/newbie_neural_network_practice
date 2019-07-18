@@ -1,4 +1,4 @@
-# newbie_neural_network_practice
+# awesome-newbie-neural-network-practice
 适合零基础新手学习的神经网络实践。a neural network practice project for newbie.
 
 作者：知乎[@Ai酱](https://www.zhihu.com/people/yuanmuou/activities)
