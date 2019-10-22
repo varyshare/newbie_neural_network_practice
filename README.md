@@ -1,8 +1,8 @@
 # awesome-newbie-neural-network-practice
 适合零基础新手学习的神经网络实践。a neural network practice project for newbie.
 
-作者：知乎[@Ai酱](https://www.zhihu.com/people/yuanmuou/activities)
-
+作者：知乎[@司南牧](https://www.zhihu.com/people/yuanmuou/activities)
+欢迎star收藏本易懂实践教程
 关于机器学习和深度学习的资料列表：[awesome_project_list](https://github.com/varyshare/newbie_neural_network_practice/blob/master/awesome_project_list.md)
 
 # 零基础神经网络实战(1)：单个神经元+随机梯度下降学习逻辑与规则
